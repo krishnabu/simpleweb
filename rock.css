@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+.title{
+    font-size:30px;
+    font-weight: bold;
+}
+.rockimg{
+    height:50px;
+}
+.paperimg{
+    height:50px;
+}
+.scissorimg{
+    height:50px;
+}
+.move-button{
+    background-color: transparent;
+    border: 3px solid white;
+    height:100px;
+    width:100px;
+    border-radius: 60px;
+    margin-left: 10px;
+    cursor: pointer;
+}
